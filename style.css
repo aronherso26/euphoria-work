@@ -1,0 +1,132 @@
+.link{
+    padding: 10px;
+    text-decoration: none;
+    color:black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.top{
+    margin-top: 20px;
+}
+.btn1{
+    border-radius: 10px;
+    border: 1px solid;
+    width: 150px;
+    border: none;
+}
+.btn2{
+    border-radius: 10px;
+    border: 1px solid;
+    width: 120px;
+    background-color: transparent;
+}
+.btn2-1{
+    border-radius: 7px;
+    background-color: rgb(34, 29, 29);
+    color: white;
+    margin-top: -15px;
+    background-color: transparent;
+}
+.sbox{
+    width: 280px;
+    border-radius: 10px;
+    border: 1px solid;
+    text-align: center;
+}
+.banner{
+    text-align: left;
+    margin-bottom: 280px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.para{
+margin-top: -230px;
+margin-left: 30px;
+color: white;
+}
+.linepur{
+    color: rgb(190, 4, 190);
+    font-size: 30px;
+}
+.aro{
+    font-size: 50px;
+    margin-left: 50px;
+}
+.para1{
+    margin-top: -290px;
+    margin-left: 20px;
+    color: white;
+}
+.para2{
+    margin-top: -320px;
+    margin-left: 220px;
+    color: white;
+}
+.para1-0{
+    margin-top: -310px;
+    margin-left: 220px;
+    color:black;
+}
+.para1-1{
+    margin-top: -310px;
+    margin-left: 300px;
+    color:black;
+}
+.pic{
+height: 450px;
+width: 550px;
+}
+.btn3{
+    border-radius: 7px;
+    background-color: white;
+    color: black;
+}
+.para3{
+    text-align: end;
+    margin-top: -310px;
+    color: white;
+}
+.aroo{
+margin-left: 220px;
+margin-top: -50px;
+}
+.off{
+color: rgba(255, 255, 0, 0.884);
+}
+.brandimg{
+width: 280px;
+height: 100px;
+width: 260px;
+border-radius: 20px;
+}
+.topbrand{
+    background-color: rgb(43, 38, 38);
+    height: 300px;
+}
+.headd{
+    color: white;
+    margin-top: 20px; 
+}
+.aroo{
+    margin-left: 200px;
+    margin-top: -50px;
+    background-color: whitesmoke;
+}
+.feed{
+    height: 50px;
+    width: 50px;
+}
+.feedback{
+    padding: 20px;
+}
+.footer{
+    color: white;
+    background-color: rgb(31, 28, 28);
+    padding: 20px;
+}
+.fit{
+    height: 90px;
+    width: 150px;
+}
+.anios{
+    height: 90px;
+    width: 150px;
+}
